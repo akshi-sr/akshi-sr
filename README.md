@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @akshi-sr!
-- 👀 I’m interested in programming!
-- 🌱 I’m currently learning Java!
-- 💞️ I’m a UG 1st year student!
-- 📫 Reach me via @akshit._.sr in instagram!
+My name is Akshit Srivastava.
+I am an UG 1st year student learning DSA in Java at the moment.
+
+Contact:-
+Instagram: 
